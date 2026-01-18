@@ -1,10 +1,10 @@
-# Beauyean
+# Busking 
 - Public performance documents
 
 Categorized by functions with publication years, music genres, and artists labels.
 
-## Gedan
-- Playlist for Beauyean
+## Playlist
+- Playlist for Busking
 
 ### Favourite
 - Playlist for usual performance
