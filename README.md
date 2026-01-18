@@ -9,4 +9,4 @@ Categorized by functions with publication years, music genres, and artists label
 ### Favourite
 - Playlist for usual performance
 
-For more details, please check on Gedan project.
+For more details, please check on playlist project.
